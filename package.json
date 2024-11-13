@@ -13,9 +13,14 @@
     "mongoose": "^7.0.1",
     "nodemon": "^2.0.21"
   },
+{
   "scripts": {
-    "build": "node server.js"
-  },
+    "start": "node server.js",
+    "dev": "vite",
+    "build": "vite build && node server.js",
+    "preview": "vite preview"
+  }
+}
   "name": "eat247",
   "version": "1.0.0",
   "main": "server.js",
