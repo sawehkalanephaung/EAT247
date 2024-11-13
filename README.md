@@ -53,7 +53,7 @@ A full-stack web application for pizza delivery service with user and restaurant
 
 
 
-## The application will run on http://localhost:4000
+## The application will run on http://localhost:3000
 
 ### Usage
 
