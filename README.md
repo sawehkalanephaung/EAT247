@@ -5,7 +5,7 @@ A full-stack web application for pizza delivery service with user and restaurant
 
 ## Documentation
 
-- [Frontend Project Report](Frontend%20Project%20Report.pdf)
+- [Frontend Project Report](project_report.pdf)
 
 
 ## Features
