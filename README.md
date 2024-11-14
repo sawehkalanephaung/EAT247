@@ -6,7 +6,8 @@ A full-stack web application for pizza delivery service with user and restaurant
 ## Documentation
 
 - [Frontend Project Report](project_report.pdf)
-
+- [UI Design : Tablet](https://www.figma.com/file/qca4ByQzfo9FTsBqH5IIKO/Eat24%2F7?t=4ZMAVVCSUGQbWqYW-1)
+- [UI Design : Mobile](https://www.figma.com/design/wPfiAKT6a4d2EHrT3H8Jc3/Eat24%2F7-App)
 
 ## Features
 
