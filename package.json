@@ -14,11 +14,8 @@
     "nodemon": "^2.0.21"
   },
   "scripts": {
-    "start": "node server.js",
-    "dev": "vite",
-    "build": "vite build && node server.js",
-    "preview": "vite preview"
-  }
+    "start": "node server.js"
+  },
 
   "name": "eat247",
   "version": "1.0.0",
